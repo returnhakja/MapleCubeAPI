@@ -8,7 +8,7 @@ function App() {
 
   const getData1 = async () => {
     const headers = {
-      authorization : `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJYLUFwcC1SYXRlLUxpbWl0IjoiNTAwOjEwIiwiYWNjb3VudF9pZCI6IjUwMzU5Njk5OSIsImF1dGhfaWQiOiIyIiwiZXhwIjoxNjg3MDY4NzUzLCJpYXQiOjE2NzE1MTY3NTMsIm5iZiI6MTY3MTUxNjc1Mywic2VydmljZV9pZCI6IjQzMDAxMTM5NyIsInRva2VuX3R5cGUiOiJBY2Nlc3NUb2tlbiJ9.LWKgjoF0JLz9qLr7OaqHfetKo2pB3LzhxzoPJrQegFI`
+      authorization : `여기 api키`
     }
     const params ={
       "count" : 100,
